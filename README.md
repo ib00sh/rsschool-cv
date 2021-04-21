@@ -1,1 +1,1 @@
-https://github.com/ib00sh/rsschool-cv/blob/gh-pages/cv
+https://ib00sh.github.io/rsschool-cv/cv
